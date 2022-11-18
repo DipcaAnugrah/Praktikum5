@@ -36,6 +36,6 @@ di output an ini kalian bebas berkreasi agar tampilan lebih menarik.
 
 # Contoh Program
 ![img.6](gambar/g6.png)
-![img.7](gambar/g7.png)
+![img.7](gambar/7.1.png)
 # Hasil Program 
 ![img.8](gambar/hasil.png)
