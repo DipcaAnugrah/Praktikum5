@@ -23,10 +23,12 @@ lalu kita akan gunakan perintah append() agar nanti nilai yang di inputkan bisa 
     - uts.append(ut)
     - uas.append(us)
     - akhir.append(akh)
-![img.4](gambar/g3.png)
+    
+- ![img.4](gambar/g3.png)
 kita juga menggunakan operator assigment pada variabel no, yang berfungsi agar nanti menjadi batas atau range pada perulangan for 
     - no+=1
-![img.5](gambar/g4.png)
+
+- ![img.5](gambar/g4.png)
 terakhir kita input 'lanjut (y/t)? tadi sudah kita bahas soal fungsi lanjut ini yakni untuk mengulangi perulangan while, jika 'y' maka akan melanjutkan perulangan nya tetapi, jika selain 'y' maka perulangan akan berhenti.
 
 3. Menampilkan atau output dari program yang sudah kita buat disini kita menggunakan perulangan for 
